@@ -1,5 +1,5 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyBz0YSeBST7Ud2k-Kla9GYj-yYqusLll3c",
+    apiKey: "apikey",
     authDomain: "removirtual-fa3b3.firebaseapp.com",
     databaseURL: "https://removirtual-fa3b3.firebaseio.com",
     projectId: "removirtual-fa3b3",
