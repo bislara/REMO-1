@@ -17,7 +17,7 @@ async function launchlab(roomId) {
     var content;
     console.log("here, in the room");
     await $.get(
-        "https://f1c394c44e6a.ngrok.io",
+        "virtual env",
         function(data) {
             content = data;
             console.log(content.one);
